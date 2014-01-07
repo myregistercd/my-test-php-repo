@@ -7,4 +7,6 @@ $i = "1";
 var_dump(intval(number_format($num,0,'.','')));
 
 echo var_dump($num*$i);
+
+echo "Fahim!";
 ?>
